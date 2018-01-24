@@ -51,7 +51,7 @@
     "prop-types": "^15.6.0",
     "styled-components": "^2.2.0",
     "styled-system": "^1.0.2",
-    "tag-hoc": "git+https://github.com/mateosilguero/tag-hoc"
+    "tag-hoc": "git+https://github.com/mateosilguero/tag-hoc.git"
   },
   "ava": {
     "require": [
